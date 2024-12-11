@@ -10,8 +10,8 @@ This project is aimed at promoting sustainable tourism through eco-friendly adve
 Through a seamless interface, users can explore a variety of adventure packages, access travel-related courses, watch engaging videos, and get personalized recommendations based on their travel interests. With its focus on environmental sustainability, this platform encourages travelers to make conscious decisions while exploring the natural world.
 
 ### Live URL
-You can view the live version of the project at:  
-[https://www.yourproject.com](https://www.yourproject.com)
+You can view the live version of the project at:  assaignment-nine-hero.web.app
+code link:https://github.com/SammamCodes/nine-of-assaignment
 
 ### Key Features
 - **Eco-Friendly Adventures**: Sustainable travel experiences for the conscious traveler, such as eco-friendly diving and trekking tours.
